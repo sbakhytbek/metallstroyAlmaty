@@ -1,7 +1,7 @@
 # metallstroyAlmaty
 
-![image1](metallstroyAlmaty/photo/1.png)
-![image2](metallstroyAlmaty/photo/2.png)
-![image3](metallstroyAlmaty/photo/3.png)
-![image4](metallstroyAlmaty/photo/4.png)
-![image5](metallstroyAlmaty/photo/5.png)
+<img src="https://github.com/sbakhytbek/metallstroyAlmaty/metallstroyAlmaty/photo/1.png" alt="image1" width="250"/>
+<img src="https://github.com/sbakhytbek/metallstroyAlmaty/metallstroyAlmaty/photo/2.png" alt="image2" width="250"/>
+<img src="https://github.com/sbakhytbek/metallstroyAlmaty/metallstroyAlmaty/photo/3.png" alt="image3" width="250"/>
+<img src="https://github.com/sbakhytbek/metallstroyAlmaty/metallstroyAlmaty/photo/4.png" alt="image4" width="250"/>
+<img src="https://github.com/sbakhytbek/metallstroyAlmaty/metallstroyAlmaty/photo/5.png" alt="image5" width="250"/>
