@@ -11,6 +11,11 @@
 		9E91AE332A5FC91700465E93 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E91AE322A5FC91700465E93 /* ContentView.swift */; };
 		9E91AE352A5FC91800465E93 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9E91AE342A5FC91800465E93 /* Assets.xcassets */; };
 		9E91AE382A5FC91800465E93 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9E91AE372A5FC91800465E93 /* Preview Assets.xcassets */; };
+		9E91AE402A5FCA5900465E93 /* ViewCompany.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E91AE3F2A5FCA5900465E93 /* ViewCompany.swift */; };
+		9E91AE422A5FCA8B00465E93 /* ViewServices.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E91AE412A5FCA8B00465E93 /* ViewServices.swift */; };
+		9E91AE442A5FCAA400465E93 /* ViewDelivery.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E91AE432A5FCAA400465E93 /* ViewDelivery.swift */; };
+		9E91AE462A5FCAB800465E93 /* ViewWorks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E91AE452A5FCAB800465E93 /* ViewWorks.swift */; };
+		9E91AE482A5FCB0200465E93 /* ViewContacts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E91AE472A5FCB0200465E93 /* ViewContacts.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +24,11 @@
 		9E91AE322A5FC91700465E93 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		9E91AE342A5FC91800465E93 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9E91AE372A5FC91800465E93 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		9E91AE3F2A5FCA5900465E93 /* ViewCompany.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewCompany.swift; sourceTree = "<group>"; };
+		9E91AE412A5FCA8B00465E93 /* ViewServices.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewServices.swift; sourceTree = "<group>"; };
+		9E91AE432A5FCAA400465E93 /* ViewDelivery.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewDelivery.swift; sourceTree = "<group>"; };
+		9E91AE452A5FCAB800465E93 /* ViewWorks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewWorks.swift; sourceTree = "<group>"; };
+		9E91AE472A5FCB0200465E93 /* ViewContacts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewContacts.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +61,7 @@
 		9E91AE2F2A5FC91700465E93 /* metallstroyAlmaty */ = {
 			isa = PBXGroup;
 			children = (
+				9E91AE3E2A5FC98900465E93 /* Views */,
 				9E91AE302A5FC91700465E93 /* metallstroyAlmatyApp.swift */,
 				9E91AE322A5FC91700465E93 /* ContentView.swift */,
 				9E91AE342A5FC91800465E93 /* Assets.xcassets */,
@@ -65,6 +76,18 @@
 				9E91AE372A5FC91800465E93 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		9E91AE3E2A5FC98900465E93 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				9E91AE3F2A5FCA5900465E93 /* ViewCompany.swift */,
+				9E91AE412A5FCA8B00465E93 /* ViewServices.swift */,
+				9E91AE432A5FCAA400465E93 /* ViewDelivery.swift */,
+				9E91AE452A5FCAB800465E93 /* ViewWorks.swift */,
+				9E91AE472A5FCB0200465E93 /* ViewContacts.swift */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,7 +160,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9E91AE422A5FCA8B00465E93 /* ViewServices.swift in Sources */,
+				9E91AE402A5FCA5900465E93 /* ViewCompany.swift in Sources */,
 				9E91AE332A5FC91700465E93 /* ContentView.swift in Sources */,
+				9E91AE482A5FCB0200465E93 /* ViewContacts.swift in Sources */,
+				9E91AE462A5FCAB800465E93 /* ViewWorks.swift in Sources */,
+				9E91AE442A5FCAA400465E93 /* ViewDelivery.swift in Sources */,
 				9E91AE312A5FC91700465E93 /* metallstroyAlmatyApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
